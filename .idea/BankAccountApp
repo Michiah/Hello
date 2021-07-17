@@ -1,1 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T15:21:01.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.9.0" etag="C4D_-tKLLjPCUVuBwGdX" type="github"><diagram id="DWak5cZ4HQeH6AIbKNYN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-17T16:04:15.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="puLbmmjAg2u7mtb0516M" version="14.9.0" type="github">
+  <diagram id="DWak5cZ4HQeH6AIbKNYN" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-1" target="4GNuhaY-4Bd6h-WAICNe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-1" value="&lt;br&gt;Welcome to&lt;br&gt;&lt;b&gt;Investments Place Bank&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="30" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-2" target="4GNuhaY-4Bd6h-WAICNe-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4GNuhaY-4Bd6h-WAICNe-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-2" target="4GNuhaY-4Bd6h-WAICNe-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-2" value="&lt;b&gt;Login:&lt;/b&gt;&lt;br&gt;Username: Jake&lt;br&gt;Password:&amp;nbsp;&lt;br&gt;&lt;b&gt;*Please enter your password or use face ID*&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-21" target="4GNuhaY-4Bd6h-WAICNe-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-21" value="&lt;b&gt;Checkings Accounts&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-23" target="4GNuhaY-4Bd6h-WAICNe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-23" target="4GNuhaY-4Bd6h-WAICNe-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-23" value="&lt;b&gt;Loans&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-26" value="&lt;b&gt;Savings Accounts&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-29" value="Auto" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-31" value="Mortgage" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-34" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" target="4GNuhaY-4Bd6h-WAICNe-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="330" as="sourcePoint" />
+            <mxPoint x="270" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="270" />
+              <mxPoint x="260" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-35" target="4GNuhaY-4Bd6h-WAICNe-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-35" value="Installment Loans" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-35" target="4GNuhaY-4Bd6h-WAICNe-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-37" target="4GNuhaY-4Bd6h-WAICNe-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-37" value="Balance" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-39" value="Transaction History" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GNuhaY-4Bd6h-WAICNe-41" target="4GNuhaY-4Bd6h-WAICNe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-41" value="Balance and Payment History" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GNuhaY-4Bd6h-WAICNe-43" value="Make a payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
